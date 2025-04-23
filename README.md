@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ### 🛠 Tech Stack
 
-- 💻 Languages: JavaScript, TypeScript, Solidity, Python  
+- 💻 Languages: Rust, JavaScript, TypeScript, Solidity, Python  
 - 🌐 Frontend: React, Next.js, TailwindCSS, Vite  
 - 🛠 Backend: Node.js, Firebase, Kafka, AWS, GCP, Docker  
-- 🧠 Concepts: Web3, CI/CD, Real-Time Apps, Microservices  
+- 🧠 Concepts: Solana, Ethereum, CI/CD, Real-Time Apps, Microservices 
 
 ---
 
