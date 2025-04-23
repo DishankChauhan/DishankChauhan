@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  A Full-Stack Developer building scalable web apps and blockchain projects with React, Next.js, Node.js, and Web3.  
+ A Full-Stack Developer with a passion for building scalable web apps and blockchain solutions. Experienced in working with Rust, Solana, Ethereum, and Web3 technologies, crafting real-time applications that bridge the gap between decentralized systems and user-centric experiences. From developing robust full-stack applications to exploring the latest in blockchain innovation, I’m always pushing the boundaries of what’s possible.
 </p>
 
 ---
