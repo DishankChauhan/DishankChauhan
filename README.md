@@ -37,14 +37,16 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects
 
-- 🔐 [**Decentralized Voting System**](https://eth-governance.netlify.app/)  
-  Ethereum + Firebase based platform enabling tamper-proof voting for 500+ users.
+- 🔐 [**Decentralized platform for security audit bounties on Solana**](https://github.com/DishankChauhan/sol-audit) 
+  Solana + Firebase based platform enabling tamper-proof auditing for 10k+ users.
 
-- 🛒 [**Kirana Kart**](https://kirana-kart.netlify.app/)  
-  Real-time grocery store management using Razorpay, Firebase & Vite.
+- 🛒 [**conda-env-inspect**](crates.io/crates/conda-env-inspect)  
+  Rust-powered command-line tool that helps developers and data scientists inspect, analyze, and document Conda environments.
 
-- 💬 [**Insta Chat**](https://tradepro-3dc88.web.app/)  
-  Instagram-style messaging with WebSockets and sub-100ms delivery.
+- 💬 [**Index Chain**](https://github.com/DishankChauhan/index-Chain)  
+  A powerful blockchain indexing platform built on Helius webhooks that enables developers to easily integrate and index Solana blockchain data into their PostgreSQL database.
+
+
 
 More projects on 👉 [Portfolio](https://portfolio-git-main-dishank-chauhans-projects.vercel.app/)
 
