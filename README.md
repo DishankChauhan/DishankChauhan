@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠 Tech Stack
+
 
 - 💻 Languages: Rust, JavaScript, TypeScript, Solidity, Python  
 - 🌐 Frontend: React, Next.js, TailwindCSS, Vite  
