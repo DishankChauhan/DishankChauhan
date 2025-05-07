@@ -28,11 +28,7 @@ Here are some ideas to get you started:
 
 
 
-- 💻 Languages: Rust, JavaScript, TypeScript, Solidity, Python  
-- 🌐 Frontend: React, Next.js, TailwindCSS, Vite  
-- 🛠 Backend: Node.js, Firebase, Kafka, AWS, GCP, Docker  
-- 🧠 Concepts: Solana, Ethereum, CI/CD, Real-Time Apps, Microservices
-- ## 🚀 Tech Stack
+
 
 ## 🚀 Tech Stack
 
