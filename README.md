@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - 🔐 [**Decentralized platform for security audit bounties on Solana**](https://github.com/DishankChauhan/sol-audit) 
   Solana + Firebase based platform enabling tamper-proof auditing for 10k+ users.
 
-- 🛒 [**conda-env-inspect**](crates.io/crates/conda-env-inspect)  
+- 🛒 [**conda-env-inspect**](https://crates.io/crates/conda-env-inspect)  
   Rust-powered command-line tool that helps developers and data scientists inspect, analyze, and document Conda environments.
 
 - 💬 [**Index Chain**](https://github.com/DishankChauhan/index-Chain)  
