@@ -12,14 +12,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: DishankChauhan
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-      
-      - name: Push to output branch
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Show contents for debugging
+        run: ls -la dist || echo "dist directory not found"
+          
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
