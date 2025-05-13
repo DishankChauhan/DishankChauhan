@@ -20,14 +20,15 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=DishankChauhan&label=PROFILE+VIEWS&color=blue&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
- A Full-Stack Developer with a passion for building scalable web apps and blockchain solutions. Experienced in working with Rust, Solana, Ethereum, and Web3 technologies, crafting real-time applications that bridge the gap between decentralized systems and user-centric experiences. From developing robust full-stack applications to exploring the latest in blockchain innovation, I’m always pushing the boundaries of what’s possible.
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;Blockchain+Enthusiast;Rust+%26+Solana+Developer;Building+The+Future+With+Code;Let's+Connect+and+Collaborate!" alt="Typing SVG" />
+  </a>
+</div>
+
+
 
 ---
-
-
-
 
 
 ## 🚀 Tech Stack
@@ -79,6 +80,13 @@ More projects on 👉 [Portfolio](https://portfolio-git-main-dishank-chauhans-pr
 </p>
 
 ---
+<div align="center">
+  <h3>🐍 My Contributions</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DishankChauhan/DishankChauhan/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DishankChauhan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ### 📬 Connect with Me
 
